@@ -1,16 +1,15 @@
-# bloc_app
+# Chuck Norris Random Facts
+A very simple app fetching random data from the Chuck Norris Api (https://api.chucknorris.io/#)
 
-A new Flutter project.
+# Why this app? #
+I wanted to check the new updates on Flutter Bloc (https://pub.dev/packages/flutter_bloc) since the companies I have worked uses different state management, and the best way to be up-to-date was create a simple app. I tried to create different layers and use events and states as recommended.
 
-## Getting Started
+# To start with... #
+You should have Flutter installed https://docs.flutter.dev/get-started/install
 
-This project is a starting point for a Flutter application.
+You must install these packages:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- https://pub.dev/packages/flutter_bloc
+- https://pub.dev/packages/equatable
+- https://pub.dev/packages/rxdart
+- https://pub.dev/packages/http
